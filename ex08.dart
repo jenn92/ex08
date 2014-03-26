@@ -65,9 +65,11 @@ print("");
 findGroups(matrix);
 
 //8.5 https://github.com/dzenanr/sliding_puzzle_wout_ui/blob/master/sliding_puzzle.dart was giving the exact needed code.
+/*
 print('8.5 Sliding Puzzle : ');
 print("");
 var puzzle = new Puzzle(2);
 puzzle.display('Start');
 puzzle.solve();
+*/
 }
